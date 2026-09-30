@@ -24,8 +24,9 @@ packages = [
     "shap==0.52.0",
 ]
 
-subprocess.check_call([pip, "install", "--upgrade", "pip"])
-subprocess.check_call([pip, "install", *packages])
+subprocess.check_call([python, "-m", "pip", "install", "--upgrade", "pip"])
+subprocess.check_call([python, "-m", "pip", "install", *packages])
+
 
 subprocess.check_call([
     python, "-c",
