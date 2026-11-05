@@ -1,3 +1,8 @@
+# Assignment 9 Ethics Statement
+I want my repo to showcase my skills and growth as a DSE student while demonstrating that I take pride in my work. I will make sure the code I upload for assignments my own work or properly credit the sources and people who helped me. I will maintain an honest and professional GitHub by writing clear code, protecting sensitive information, and being transparent about my contributions.
+
+
+
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
